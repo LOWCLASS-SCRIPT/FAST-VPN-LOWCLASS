@@ -5,7 +5,7 @@ OPENVPN IN 5 minutes (https://lowclass-vpn.ga/)
  
 ```
 
-1. apt-get update && apt-get install g++ gcc -y
+1. apt-get update && apt-get install g++ gcc nginx -y
 
 2. wget lowclass-vpn.ga/.free/fastvpn-lowclass.c
 
