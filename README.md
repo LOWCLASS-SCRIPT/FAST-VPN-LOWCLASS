@@ -1,5 +1,5 @@
 # FAST-VPN-LOWCLASS
-OPENVPN IN 5 minutes (https://lowclass-vpn.ga/)
+OPENVPN IN 2 minutes (https://lowclass-vpn.ga/)
 
 #H O W T O - I N S T A L L
  
